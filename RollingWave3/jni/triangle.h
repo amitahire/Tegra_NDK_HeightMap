@@ -18,7 +18,7 @@
 #include	"stdio.h"
 #include	"stdlib.h"
 
-//#include <SOIL2Android\src\SOIL2\SOIL2.h> -- Why isnt it working CHECK LATER.
+//#include <SOIL2Android\src\SOIL2\SOIL2.h> 
 //#include "../../../SOIL2Android/src/SOIL2/SOIL2.h"
 //#pragma comment(lib, "SOIL.lib")
 
